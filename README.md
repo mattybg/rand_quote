@@ -1,5 +1,5 @@
 # rand_quote
-My first personal project, completed summer 2023
+My first personal project, completed january 2023
 
 <h4>Technologies Used</h4>
 <ul>
