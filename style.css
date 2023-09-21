@@ -1,0 +1,51 @@
+body {
+    color: blue;
+  }
+  #quote-box {
+    position: relative;
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+  }
+  
+  #text {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  #author {
+    font-size: 24px;
+    font-style: italic;
+    color: #888;
+  }
+  
+  #new-quote {
+    padding: 10px 20px;
+    background-color: #3399ff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+  }
+
+  #copy-btn {
+    padding: 10px 20px;
+    background-color: #3399ff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+  }
+
+  footer {
+    text-align: center;
+    margin-top: 20px;  }
